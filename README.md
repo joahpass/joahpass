@@ -70,14 +70,6 @@
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=joahpass&theme=github-compact&hide_border=true&area=true" alt="joahpass activity graph" />
 </p>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joahpass/joahpass/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joahpass/joahpass/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/joahpass/joahpass/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <p align="center">
   <i>Build useful things. Keep learning. Share what works.</i>
 </p>
